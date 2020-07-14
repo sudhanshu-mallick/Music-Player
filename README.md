@@ -17,3 +17,6 @@ Here is the [apk](https://drive.google.com/file/d/1mqyoGjzKVtQSNS2TGBcCl47zMlIQR
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Made By
+[Sudhanshu Mallick](https://github.com/sudhanshu-mallick)
